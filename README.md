@@ -4,4 +4,4 @@ The Project has two interfaces
 1. Admin side  2. Client side
 ........
 Algorithms and code created by Saim Akhtar
-GUI helped by Areeba Seher
+User Interface helped by Areeba Seher
